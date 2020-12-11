@@ -1,7 +1,10 @@
-### 
-
 Currently studying Computer Science at Concordia University.
+
 Welcome to my Git profile!
+
+You can reach me here: LinkedIn: https://www.linkedin.com/in/febrian-francione-3741b819a/
+                       Facebook: Febrian FrancionE
+
 
 <!--
 **LettuceFoot/LettuceFoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
