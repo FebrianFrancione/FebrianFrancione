@@ -1,4 +1,7 @@
-### Hi there 👋
+### 
+
+Currently studying Computer Science at Concordia University.
+Welcome to my Git profile!
 
 <!--
 **LettuceFoot/LettuceFoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
