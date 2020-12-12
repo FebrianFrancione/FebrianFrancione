@@ -2,8 +2,9 @@ Currently studying Computer Science at Concordia University.
 
 Welcome to my Git profile!
 
-You can reach me here: LinkedIn: https://www.linkedin.com/in/febrian-francione-3741b819a/
-                       Facebook: Febrian Francione
+You can reach me here: 
+-LinkedIn: https://www.linkedin.com/in/febrian-francione-3741b819a/ 
+-Facebook: Febrian Francione
 
 
 <!--
