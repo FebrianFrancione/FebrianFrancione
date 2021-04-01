@@ -1,7 +1,7 @@
 Welcome to my Git profile!
 
-Currently a Computer Science Major at Concordia University.
-Always looking for more projects too
+Self-Motivated Computer Science student at Concordia University graduating May 2021. Great interest in Back-end development with focus on Web-Services. Currently looking for opportunities in Software, Java Backend and Web Development. Experience with Java, Spring Framework, MySql, Python, RESTful services, Javascript (Git of course!) and many more! Mindset focused on Growth and Progress.
+
 <!--
 **LettuceFoot/LettuceFoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
